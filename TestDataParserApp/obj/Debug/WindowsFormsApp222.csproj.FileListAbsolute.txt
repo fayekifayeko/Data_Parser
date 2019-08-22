@@ -1,0 +1,10 @@
+C:\Users\User001\source\repos\WindowsFormsApp222\WindowsFormsApp222\bin\Debug\WindowsFormsApp222.exe.config
+C:\Users\User001\source\repos\WindowsFormsApp222\WindowsFormsApp222\bin\Debug\WindowsFormsApp222.exe
+C:\Users\User001\source\repos\WindowsFormsApp222\WindowsFormsApp222\bin\Debug\WindowsFormsApp222.pdb
+C:\Users\User001\source\repos\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.csprojAssemblyReference.cache
+C:\Users\User001\source\repos\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.Form1.resources
+C:\Users\User001\source\repos\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.Properties.Resources.resources
+C:\Users\User001\source\repos\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.csproj.GenerateResource.cache
+C:\Users\User001\source\repos\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.csproj.CoreCompileInputs.cache
+C:\Users\User001\source\repos\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.exe
+C:\Users\User001\source\repos\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.pdb
